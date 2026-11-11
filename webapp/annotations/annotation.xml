@@ -21,6 +21,7 @@
                     <Collection>
                         <PropertyPath>AgencyId</PropertyPath>
                         <PropertyPath>CustomerId</PropertyPath>
+                        <PropertyPath>AgencyId</PropertyPath>
                     </Collection>
                 </Annotation>
             </Annotations>
